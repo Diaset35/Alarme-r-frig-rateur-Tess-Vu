@@ -1,7 +1,6 @@
 # Alarme réfrigérateur par Diaset35/Tess
-::: warning
-*Réalisation d'un montage d’une alarme déclenchant la porte du réfrigérateur ouverte*
-:::
+
+Réalisation d'un montage d’une alarme déclenchant la porte du réfrigérateur ouverte
 
 ## Videos
 [![video](https://img.youtube.com/vi/XMnJeg1ajXE/0.jpg)](https://www.youtube.com/watch?v=XMnJeg1ajXE)
